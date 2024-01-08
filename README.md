@@ -1,2 +1,3 @@
 # demo
-A demo repository
+A demo repository for my account
+Author: Bishnu Tibrewal
